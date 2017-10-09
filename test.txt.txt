@@ -38,4 +38,4 @@ namespace LeftRightSum
     }
 }
 
-"Updated with TortoiseGit" 
+Updated with TortoiseGit
